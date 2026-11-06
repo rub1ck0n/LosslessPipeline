@@ -1,0 +1,17 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+build/
+dist/
+*.spec
+
+.idea/
+
+*.flac
+*.wav
+*.mp3
+*.jpg
+*.png
+.flac_studio_cache.json
